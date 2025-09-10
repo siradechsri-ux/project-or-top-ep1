@@ -27,7 +27,7 @@ const PROFILES: Profile[] = [
     tags: ["UX", "UI", "Figma"],
   },
   {
-    name: "John Smith",
+    name: "Siradech",
     role: "Full-stack Developer",
     bio: "Next.js, Node.js, Cloud-native. I turn ideas into products.",
     image: "https://i.pravatar.cc/160?img=3",
